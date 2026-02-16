@@ -105,8 +105,6 @@ Welcome to Liberu CMS, our forward-thinking open-source project designed to empo
 
 4. **Efficient Admin Panel:** Filament 3, our admin panel built on Laravel, adds an extra layer of efficiency to Liberu CMS. Administrators can manage users, customize settings, and oversee the entire content ecosystem with a powerful and intuitive interface.
 
-4. **Efficient Admin Panel:** Filament 3, our admin panel built on Laravel, adds an extra layer of efficiency to Liberu CMS. Administrators can manage users, customize settings, and oversee the entire content ecosystem with a powerful and intuitive interface.
-
 5. **Customizable Templates:** Tailor your website's appearance with customizable templates. Liberu CMS offers flexibility in design, allowing users to create unique and visually appealing websites that align with their brand and vision.
 
 6. **Scalability and Performance:** Whether you're managing a personal blog or a large-scale enterprise website, Liberu CMS is built for scalability and optimized performance. The project adapts to your content needs, ensuring a seamless experience for both creators and visitors.
