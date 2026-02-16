@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'welcome' => 'Welcome',
+    'home' => 'Home',
+    'about' => 'About',
+    'contact' => 'Contact',
+    'login' => 'Login',
+    'logout' => 'Logout',
+    'register' => 'Register',
+    'dashboard' => 'Dashboard',
+    'profile' => 'Profile',
+    'settings' => 'Settings',
+    'save' => 'Save',
+    'cancel' => 'Cancel',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'create' => 'Create',
+    'update' => 'Update',
+    'search' => 'Search',
+    'filter' => 'Filter',
+    'export' => 'Export',
+    'import' => 'Import',
+    'actions' => 'Actions',
+    'language' => 'Language',
+    'change_language' => 'Change Language',
+];

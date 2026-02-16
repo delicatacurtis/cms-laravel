@@ -87,6 +87,19 @@ return [
 
     /*
     |--------------------------------------------------------------------------
+    | Supported Locales
+    |--------------------------------------------------------------------------
+    |
+    | The supported locales array contains all the locales that are supported
+    | by the application. These locales can be switched dynamically and will
+    | be used for translation and internationalization.
+    |
+    */
+
+    'supported_locales' => explode(',', env('SUPPORTED_LOCALES', 'en,es,fr,de')),
+
+    /*
+    |--------------------------------------------------------------------------
     | Application Fallback Locale
     |--------------------------------------------------------------------------
     |

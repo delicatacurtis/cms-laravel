@@ -31,4 +31,8 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'mymemory' => [
+        'api_key' => env('MYMEMORY_API_KEY', ''),
+    ],
+
 ];
