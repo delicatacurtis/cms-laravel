@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'welcome' => 'Bienvenue',
+    'home' => 'Accueil',
+    'about' => 'À propos',
+    'contact' => 'Contact',
+    'login' => 'Connexion',
+    'logout' => 'Déconnexion',
+    'register' => 'S\'inscrire',
+    'dashboard' => 'Tableau de bord',
+    'profile' => 'Profil',
+    'settings' => 'Paramètres',
+    'save' => 'Enregistrer',
+    'cancel' => 'Annuler',
+    'edit' => 'Modifier',
+    'delete' => 'Supprimer',
+    'create' => 'Créer',
+    'update' => 'Mettre à jour',
+    'search' => 'Rechercher',
+    'filter' => 'Filtrer',
+    'export' => 'Exporter',
+    'import' => 'Importer',
+    'actions' => 'Actions',
+    'language' => 'Langue',
+    'change_language' => 'Changer de langue',
+];
